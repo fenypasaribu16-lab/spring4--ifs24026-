@@ -7,7 +7,7 @@
 - Melakukan inisialisasi proyek
 - Menambahkan method 'sayHello()' pada HomeController
 - Menambahkan pengujian untuk method 'sayHello()'
-
+- selesai 
 ## Syntax
 
 ### Melakukan Instal Ulang Kebutuhan Paket
